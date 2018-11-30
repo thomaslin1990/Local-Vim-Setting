@@ -1,0 +1,3 @@
+colorscheme onedark
+autocmd VimEnter * set nospell
+set fencs=utf-8,chinese,latin1 fenc=utf-8 enc=utf-8
